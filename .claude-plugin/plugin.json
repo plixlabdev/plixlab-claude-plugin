@@ -1,0 +1,13 @@
+{
+  "name": "plixlab",
+  "displayName": "Plixlab",
+  "version": "1.0.0",
+  "description": "Turn your idea into a plix: a self-contained deck holding data, code and visualization.",
+  "author": {
+    "name": "Plixlab",
+    "email": "contact@plixlab.com",
+    "url": "https://plixlab.com"
+  },
+  "homepage": "https://plixlab.com",
+  "license": "MIT"
+}
