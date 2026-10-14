@@ -9,5 +9,6 @@
     "url": "https://plixlab.com"
   },
   "homepage": "https://plixlab.com",
+  "repository": "https://github.com/plixlabdev/plixlab-claude-plugin",
   "license": "MIT"
 }
