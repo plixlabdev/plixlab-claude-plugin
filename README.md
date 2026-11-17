@@ -1,6 +1,6 @@
 # Plixlab
 
-Turn your idea into a plix: a self-contained deck holding data, code and visualization. Python cells run in the browser or on cloud machines, and Claude builds the deck for you: slides, text, equations, diagrams, tables, molecules from the Protein Data Bank, and the Python cells that compute the charts.
+Turn your idea into a plix: a self-contained deck holding data, code and visualization. Python cells run in the browser or on cloud machines, and Claude builds the deck for you: slides from templates, text, equations, diagrams, datasets, images, 3D models, atoms from the Protein Data Bank, and the Python cells that compute the charts.
 
 ## What this plugin does
 
