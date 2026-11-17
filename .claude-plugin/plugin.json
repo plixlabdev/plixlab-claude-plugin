@@ -10,5 +10,10 @@
   },
   "homepage": "https://plixlab.com",
   "repository": "https://github.com/plixlabdev/plixlab-claude-plugin",
-  "license": "MIT"
+  "license": "MIT",
+  "icon": "./.claude-plugin/icon.png",
+  "documentationUrl": "https://docs.plixlab.com",
+  "supportUrl": "https://plixlab.com/contact",
+  "privacyPolicyUrl": "https://plixlab.com/privacy",
+  "termsOfServiceUrl": "https://plixlab.com/terms"
 }
